@@ -15,7 +15,7 @@ int main()
     	cout<<"Consonant\n";
 	}
 	else
-		cout<<"Invalid\n";
+		cout<<"invalid\n";
 
     return 0;
 }
