@@ -10,7 +10,7 @@ int main()
     if((65<=x&&x<=90)||(97<=x&&x<=122))
     {
     	if(x==65||x==69||x==73||x==79||x==85||x==97||x==101||x==105||x==111||x==117)
-    	cout<<"Vowel\n"<<x;
+    	cout<<"Vowel\n";
     	else
     	cout<<"Consonant\n";
 	}
