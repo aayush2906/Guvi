@@ -8,7 +8,7 @@ main()
 	int x;
 	cin>>x;
 	if(x<0)
-	cout<<"Invalid Input\n";
+	cout<<"Invalid\n";
 	else
 	if(x%2==0)
 	{
