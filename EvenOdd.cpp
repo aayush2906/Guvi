@@ -12,7 +12,7 @@ main()
 	else
 	if(x%2==0)
 	{
-	cout<<"Even\n"<<x;
+	cout<<"Even\n";
 	}
 	else if(x%2!=0)
 	cout<<"Odd\n";
